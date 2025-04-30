@@ -18,7 +18,7 @@ Analyzed emergency room data to understand patient flow, peak hours, and wait ti
 
 ---
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=IPL+Predictive+Analysis">  
+<img align="left" width="250" height="150" src="https://etimg.etb2bimg.com/photo/100578668.cms">  
 
 **[IPL Predictive Analysis](#)**  
 Built a machine learning pipeline to predict IPL match outcomes using historical match and player data. Visualized team performance, used regression and classification models, and evaluated accuracy using metrics like F1 score.
@@ -27,7 +27,7 @@ Built a machine learning pipeline to predict IPL match outcomes using historical
 
 ---
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Olympics+EDA">  
+<img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1743193189243-a79a3e02c268?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">  
 
 **[Olympics EDA](#)**  
 Performed exploratory analysis on Olympic datasets to uncover trends in medal wins, athlete demographics, and sports popularity. Created visual narratives to show shifts in participation and performance over decades.
@@ -36,7 +36,7 @@ Performed exploratory analysis on Olympic datasets to uncover trends in medal wi
 
 ---
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Shopping+Trends">  
+<img align="left" width="250" height="150" src="https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-02/Grocery%20Store.jpg">  
 
 **[Shopping Trends EDA](#)**  
 Analyzed retail transaction data to find trends in customer behavior, peak buying periods, and product preferences. Provided data-driven insights for inventory management and marketing strategy.
@@ -45,7 +45,7 @@ Analyzed retail transaction data to find trends in customer behavior, peak buyin
 
 ---
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Volleyball+EDA">  
+<img align="left" width="250" height="150" src="https://superblog.supercdn.cloud/site_cuid_clr6oh1no0006rmr89yhkxgu8/images/image-1373-3-1718354177916-compressed.png">  
 
 **[Volleyball EDA](#)**  
 Explored player statistics and match-level performance data to find patterns in winning strategies. Created comparative plots and heatmaps to assist teams with data-informed coaching.
@@ -54,7 +54,7 @@ Explored player statistics and match-level performance data to find patterns in 
 
 ---
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Netflix+EDA">  
+<img align="left" width="250" height="150" src="https://m.media-amazon.com/images/I/31JfJ6dXD9L.png">  
 
 **[Netflix EDA](#)**  
 Visualized the Netflix catalog to analyze genre trends, country-wise production, and content distribution across time. Built dashboards to highlight shifts in viewer demand and platform strategy.
@@ -63,7 +63,7 @@ Visualized the Netflix catalog to analyze genre trends, country-wise production,
 
 ---
 
-<img align="left" width="250" height="150" src="https://via.placeholder.com/250x150.png?text=Sales+Trend+Analysis"> 
+<img align="left" width="250" height="150" src="https://revenuegrid.com/wp-content/uploads/2022/01/thumb-sales-trend-analysis.png"> 
 
 **[Sales Trend Analysis](#)**  
 Performed time series analysis on multi-year sales data to identify seasonality, growth trends, and anomalies. Forecasted future sales using moving averages and regression-based techniques.
@@ -74,14 +74,14 @@ Performed time series analysis on multi-year sales data to identify seasonality,
 
 ## Skills
 
-- **Languages**: Python, SQL, Excel  
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Seaborn, Matplotlib), SQL, Excel  
 - **Libraries**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
 - **Tools**: Jupyter, Tableau, Git, Power BI  
-- **Techniques**: EDA, Data Cleaning, Predictive Modeling, Time Series, Dashboarding
+- **Techniques**: ETL/ELT, EDA, Data Cleaning, Data Wrangling, Data Modeling, Predictive Modeling, Dashboarding
 
 ---
 
-## Certifications (Optional)
+## Certifications
 
 - [Google Data Analytics Certificate](#)  
 - [SQL for Data Science – Coursera](#)  
