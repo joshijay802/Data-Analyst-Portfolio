@@ -12,8 +12,7 @@ This portfolio showcases data analysis projects I’ve worked on to demonstrate 
 <img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1579154491915-611e891d3a5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 **[Hospital ER Data Analysis](https://github.com/joshijay802)**  
-Analyzed emergency room data to understand patient flow, peak hours, and wait time bottlenecks. Used pandas and seaborn to visualize seasonal patterns and provided data-backed suggestions for operational improvements.
-
+Designed interactive Power BI dashboards to analyze emergency room metrics, including patient wait times, referral patterns, satisfaction scores, and visit volumes. Implemented data modeling, DAX calculations, and visual storytelling to uncover bottlenecks and support data-driven hospital operations decisions.
 <br clear="left"/>
 
 ---
@@ -21,7 +20,7 @@ Analyzed emergency room data to understand patient flow, peak hours, and wait ti
 <img align="left" width="250" height="150" src="https://etimg.etb2bimg.com/photo/100578668.cms">  
 
 **[IPL Predictive Analysis](#)**  
-Built a machine learning pipeline to predict IPL match outcomes using historical match and player data. Visualized team performance, used regression and classification models, and evaluated accuracy using metrics like F1 score.
+Performed exploratory and predictive analysis on IPL match data from 2008–2022. Created visualizations to highlight top players, dismissal types, and run patterns. Applied groupby operations and regression-ready data transformations to understand key performance drivers across teams and matches.
 
 <br clear="left"/>
 
@@ -30,7 +29,7 @@ Built a machine learning pipeline to predict IPL match outcomes using historical
 <img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1743193189243-a79a3e02c268?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">  
 
 **[Olympics EDA](#)**  
-Performed exploratory analysis on Olympic datasets to uncover trends in medal wins, athlete demographics, and sports popularity. Created visual narratives to show shifts in participation and performance over decades.
+Explored multi-year Olympic datasets to study athlete age, gender distribution, medal counts, and country performance. Used groupby and aggregation techniques to identify trends across sports and countries. Visualized athlete metrics and participation over time for strategic planning.
 
 <br clear="left"/>
 
@@ -39,7 +38,7 @@ Performed exploratory analysis on Olympic datasets to uncover trends in medal wi
 <img align="left" width="250" height="150" src="https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-02/Grocery%20Store.jpg">  
 
 **[Shopping Trends EDA](#)**  
-Analyzed retail transaction data to find trends in customer behavior, peak buying periods, and product preferences. Provided data-driven insights for inventory management and marketing strategy.
+Conducted exploratory data analysis on consumer shopping behavior. Analyzed demographics, seasonal spending trends, purchase frequency, and subscription patterns. Built visual insights to support marketing strategies and category-level performance evaluations using bar plots, histograms, and pie charts.
 
 <br clear="left"/>
 
@@ -48,8 +47,7 @@ Analyzed retail transaction data to find trends in customer behavior, peak buyin
 <img align="left" width="250" height="150" src="https://superblog.supercdn.cloud/site_cuid_clr6oh1no0006rmr89yhkxgu8/images/image-1373-3-1718354177916-compressed.png">  
 
 **[Volleyball EDA](#)**  
-Explored player statistics and match-level performance data to find patterns in winning strategies. Created comparative plots and heatmaps to assist teams with data-informed coaching.
-
+Analyzed international volleyball performance data to uncover insights on player positions, country-wise attack averages, and serve trends by age. Created heatmaps, scatter plots, and boxplots to explore statistical relationships among blocking, receiving, and scoring metrics.
 <br clear="left"/>
 
 ---
@@ -57,7 +55,7 @@ Explored player statistics and match-level performance data to find patterns in 
 <img align="left" width="250" height="150" src="https://m.media-amazon.com/images/I/31JfJ6dXD9L.png">  
 
 **[Netflix EDA](#)**  
-Visualized the Netflix catalog to analyze genre trends, country-wise production, and content distribution across time. Built dashboards to highlight shifts in viewer demand and platform strategy.
+Queried Netflix’s content dataset using SQL to analyze distribution across genres, countries, and release years. Aggregated data for insight into content trends and viewing patterns, supporting content strategy and audience segmentation.
 
 <br clear="left"/>
 
