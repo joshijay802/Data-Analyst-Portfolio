@@ -83,8 +83,17 @@ Performed time series analysis on multi-year sales data to identify seasonality,
 
 ## Certifications
 
-- [Google Data Analytics Certificate](#)  
-- [SQL for Data Science – Coursera](#)  
-- [Power BI Essential Training – LinkedIn Learning](#)  
+- [Microsoft Power BI Data Analyst Professional Certificate](#)  
+  - [Preparing Data for Analysis with Microsoft Excel – Coursera](#)
+  - [Harnessing the Power of Data with Power BI – Coursera](#)
+  - [Extract, Transform and Load Data in Power BI – Coursera](#)
+  - [Data Modeling in Power BI – Coursera](#)
+  - [Data Analysis and Visualization with Power BI – Coursera](#)
+  - [Creative Designing in Power BI – Coursera](#)
+  - [Deploy and Maintain Power BI Assets and Capstone project – Coursera](#)
+- [SQL (Basic) - Hacker Rank](#)
+- [SQL (Intermediate) - Hacker Rank](#)
+- [Python - Hacker Rank](#)
+
 
 ---
