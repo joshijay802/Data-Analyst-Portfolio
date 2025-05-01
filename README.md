@@ -11,7 +11,7 @@ This portfolio showcases data analysis projects I’ve worked on to demonstrate 
 
 <img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1579154491915-611e891d3a5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
-**[Hospital ER Data Analysis](https://github.com/joshijay802)**  
+**[Hospital ER Data Analysis]([https://github.com/joshijay802](https://github.com/joshijay802/Data-Analyst-Portfolio-Projects/tree/main/Hospital%20ER%20Analysis))**  
 Built an end-to-end Power BI dashboard to analyze emergency room performance by executing the full ETL process—cleaning and modeling patient data using Power Query, crafting DAX-based KPIs, and designing interactive visuals. Delivered insights on wait times, referrals, and patient satisfaction to support operational efficiency and data-driven hospital management.
 <br clear="left"/>
 
@@ -19,7 +19,7 @@ Built an end-to-end Power BI dashboard to analyze emergency room performance by 
 
 <img align="left" width="250" height="150" src="https://etimg.etb2bimg.com/photo/100578668.cms">  
 
-**[IPL Predictive Analysis](#)**  
+**[IPL Predictive Analysis](https://github.com/joshijay802/Data-Analyst-Portfolio-Projects/tree/main/IPL%20Data%20Predictive%20Analysis)**  
 Performed exploratory and predictive analysis on IPL match data from 2008–2022. Created visualizations to highlight top players, dismissal types, and run patterns. Applied groupby operations and regression-ready data transformations to understand key performance drivers across teams and matches.
 
 <br clear="left"/>
@@ -28,7 +28,7 @@ Performed exploratory and predictive analysis on IPL match data from 2008–2022
 
 <img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1743193189243-a79a3e02c268?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">  
 
-**[Olympics EDA](#)**  
+**[Olympics EDA](https://github.com/joshijay802/Data-Analyst-Portfolio-Projects/tree/main/Olympics%20EDA)**  
 Explored multi-year Olympic datasets to study athlete age, gender distribution, medal counts, and country performance. Used groupby and aggregation techniques to identify trends across sports and countries. Visualized athlete metrics and participation over time for strategic planning.
 
 <br clear="left"/>
@@ -37,7 +37,7 @@ Explored multi-year Olympic datasets to study athlete age, gender distribution, 
 
 <img align="left" width="250" height="150" src="https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2024-02/Grocery%20Store.jpg">  
 
-**[Shopping Trends EDA](#)**  
+**[Shopping Trends EDA](https://github.com/joshijay802/Data-Analyst-Portfolio-Projects/tree/main/Shopping%20Trends%20EDA)**  
 Conducted exploratory data analysis on consumer shopping behavior. Analyzed demographics, seasonal spending trends, purchase frequency, and subscription patterns. Built visual insights to support marketing strategies and category-level performance evaluations using bar plots, histograms, and pie charts.
 
 <br clear="left"/>
@@ -46,7 +46,7 @@ Conducted exploratory data analysis on consumer shopping behavior. Analyzed demo
 
 <img align="left" width="250" height="150" src="https://superblog.supercdn.cloud/site_cuid_clr6oh1no0006rmr89yhkxgu8/images/image-1373-3-1718354177916-compressed.png">  
 
-**[Volleyball EDA](#)**  
+**[Volleyball EDA](https://github.com/joshijay802/Data-Analyst-Portfolio-Projects/tree/main/Vollyball%20EDA)**  
 Analyzed international volleyball performance data to uncover insights on player positions, country-wise attack averages, and serve trends by age. Created heatmaps, scatter plots, and boxplots to explore statistical relationships among blocking, receiving, and scoring metrics.
 <br clear="left"/>
 
@@ -54,7 +54,7 @@ Analyzed international volleyball performance data to uncover insights on player
 
 <img align="left" width="250" height="150" src="https://m.media-amazon.com/images/I/31JfJ6dXD9L.png">  
 
-**[Netflix EDA](#)**  
+**[Netflix EDA](https://github.com/joshijay802/Data-Analyst-Portfolio-Projects/tree/main/Netflix%20TV%20Shows%20and%20Series%20Data%20Analysis)**  
 Queried Netflix’s content dataset using SQL to analyze distribution across genres, countries, and release years. Aggregated data for insight into content trends and viewing patterns, supporting content strategy and audience segmentation.
 
 <br clear="left"/>
@@ -63,7 +63,7 @@ Queried Netflix’s content dataset using SQL to analyze distribution across gen
 
 <img align="left" width="250" height="150" src="https://revenuegrid.com/wp-content/uploads/2022/01/thumb-sales-trend-analysis.png"> 
 
-**[Sales Trend Analysis](#)**  
+**[Sales Trend Analysis](https://github.com/joshijay802/Data-Analyst-Portfolio-Projects/tree/main/Sales%20Data%20Analysis)**  
 Performed time series analysis on multi-year sales data to identify seasonality, growth trends, and anomalies. Forecasted future sales using moving averages and regression-based techniques.
 
 <br clear="left"/>
