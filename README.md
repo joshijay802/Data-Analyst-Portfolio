@@ -83,17 +83,17 @@ Performed time series analysis on multi-year sales data to identify seasonality,
 
 ## Certifications
 
-- [Microsoft Power BI Data Analyst Professional Certificate](#)  
-  - [Preparing Data for Analysis with Microsoft Excel – Coursera](#)
-  - [Harnessing the Power of Data with Power BI – Coursera](#)
-  - [Extract, Transform and Load Data in Power BI – Coursera](#)
-  - [Data Modeling in Power BI – Coursera](#)
-  - [Data Analysis and Visualization with Power BI – Coursera](#)
-  - [Creative Designing in Power BI – Coursera](#)
-  - [Deploy and Maintain Power BI Assets and Capstone project – Coursera](#)
-- [SQL (Basic) - Hacker Rank](#)
-- [SQL (Intermediate) - Hacker Rank](#)
-- [Python - Hacker Rank](#)
+- [Microsoft Power BI Data Analyst Professional Certificate](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Microsoft%20Power%20BI%20Data%20Analyst%20Professional%20Certificate.pdf)  
+  - [Preparing Data for Analysis with Microsoft Excel – Coursera](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Preparing%20Data%20for%20Analysis%20with%20Microsoft%20Excel.pdf)
+  - [Harnessing the Power of Data with Power BI – Coursera](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Harnessing%20the%20Power%20of%20Data%20with%20Power%20BI.pdf)
+  - [Extract, Transform and Load Data in Power BI – Coursera](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Extract%2C%20Transform%20and%20Load%20Data%20in%20Power%20BI.pdf)
+  - [Data Modeling in Power BI – Coursera](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Data%20Modeling%20in%20Power%20BI.pdf)
+  - [Data Analysis and Visualization with Power BI – Coursera](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Data%20Analysis%20and%20Visualization%20with%20Power%20BI.pdf)
+  - [Creative Designing in Power BI – Coursera](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Creative%20Designing%20in%20Power%20BI.pdf)
+  - [Deploy and Maintain Power BI Assets and Capstone project – Coursera](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/Deploy%20and%20Maintain%20Power%20BI%20Assets%20and%20Capstone.pdf)
+- [SQL (Basic) - Hacker Rank](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/sql_basic%20certificate.pdf)
+- [SQL (Intermediate) - Hacker Rank](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/sql_intermediate%20certificate.pdf)
+- [Python - Hacker Rank](https://github.com/joshijay802/Data-Analyst-Portfolio/blob/main/Certificates/python_basic%20certificate.pdf)
 
 
 ---
