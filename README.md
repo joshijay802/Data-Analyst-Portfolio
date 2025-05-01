@@ -12,7 +12,7 @@ This portfolio showcases data analysis projects I’ve worked on to demonstrate 
 <img align="left" width="250" height="150" src="https://images.unsplash.com/photo-1579154491915-611e891d3a5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 **[Hospital ER Data Analysis](https://github.com/joshijay802)**  
-Designed interactive Power BI dashboards to analyze emergency room metrics, including patient wait times, referral patterns, satisfaction scores, and visit volumes. Implemented data modeling, DAX calculations, and visual storytelling to uncover bottlenecks and support data-driven hospital operations decisions.
+Built an end-to-end Power BI dashboard to analyze emergency room performance by executing the full ETL process—cleaning and modeling patient data using Power Query, crafting DAX-based KPIs, and designing interactive visuals. Delivered insights on wait times, referrals, and patient satisfaction to support operational efficiency and data-driven hospital management.
 <br clear="left"/>
 
 ---
